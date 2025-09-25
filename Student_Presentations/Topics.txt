@@ -1,0 +1,32 @@
+Student Code:
+
+Abinash - ab
+Manideep - md
+Sucharu - sr
+Kiran - kn
+Rajlaxmi - rx
+Ipshita - ip
+
+student code only - reserved
+student code followed by ` - presentation finished
+
+
+
+Topics for Presentation:
+
+1. Oops in python
+2. array vs lists (md)
+3. slicing in lists (sr & ab`)
+4. file manipulation in python (kn)
+5. try catch block (sr)
+6. python versions and changes
+7. gfg & leetcode
+8. function vs method, arguments vs parameters, and attributes vs properties 
+9. type conversion (ab)
+10. shift operators
+11. Big O notation
+12. Break statements
+13. Statistics - skewness, kurtosis
+14. Probability Distributions
+15. Machine Learning
+16. Regression
